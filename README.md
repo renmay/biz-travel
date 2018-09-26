@@ -3,7 +3,7 @@
 ``` bash
 
 # Clone project
-git clone https://github.com/PanJiaChen/vueAdmin-template.git
+https://github.com/renmay/biz-travel.git
 
 # Install dependencies
 npm install
